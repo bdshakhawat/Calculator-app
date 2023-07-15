@@ -27,7 +27,7 @@ function App() {
 
       return (
             <div className="container">
-                  <h1>Calculator App using react</h1>
+                  <h1>Calculator App </h1>
                   <div className="caculator">
                         <Keypad/>
                         {/* <input type="text" value={input} className="output" readOnly /> */}
